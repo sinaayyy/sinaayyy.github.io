@@ -27,4 +27,4 @@ I hold a **Double Master's degree in Mathematics, Computer Science, and Data Sci
 
 ## Recent Publication
 
-- *Federated Learning for UAV Perception Task: A Survey* — TechRxiv
+- *[Federated Learning for UAV Perception Task: A Survey](https://www.techrxiv.org/users/925495/articles/1300160-federated-learning-for-uav-perception-task-a-survey)* — TechRxiv (preprint, under review)

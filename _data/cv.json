@@ -155,10 +155,10 @@
   "publications": [
     {
       "name": "Federated Learning for UAV Perception Task: A Survey",
-      "publisher": "TechRxiv",
+      "publisher": "TechRxiv (under review)",
       "releaseDate": "",
-      "website": "",
-      "summary": "Survey on federated learning approaches for UAV (drone) perception tasks."
+      "website": "https://www.techrxiv.org/users/925495/articles/1300160-federated-learning-for-uav-perception-task-a-survey",
+      "summary": "Survey on federated learning approaches for UAV (drone) perception tasks. Preprint under review."
     }
   ],
   "presentations": [],
