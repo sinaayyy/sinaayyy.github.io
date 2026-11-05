@@ -4,7 +4,7 @@
     "email": "yanis.bardes@gmail.com",
     "phone": "+33 7 60 35 05 43",
     "website": "https://sinaayyy.github.io",
-    "summary": "PhD student in Artificial Intelligence at Université Paris-Saclay (Lincoln lab). Research focused on real-time waste detection via drone using federated learning and multi-objective optimization. Also teaching Mathematics, AI, and MLOps at École Centrale d'Electronique.",
+    "summary": "PhD candidate in Artificial Intelligence at Université Paris-Saclay (LISV laboratory), in a CIFRE industrial doctorate with Alten Labs. Research on federated object detection for UAVs under hardware constraints, applied to real-time waste detection. Lecturer at ECE Paris (AI, MLOps, Mathematics) and ESIEE Paris (Big Data, Full-Stack Data Applications).",
     "location": {
       "address": "",
       "postalCode": "93160",
@@ -32,24 +32,35 @@
   },
   "work": [
     {
-      "company": "Lincoln / Université Paris-Saclay",
-      "position": "PhD Student in Artificial Intelligence",
+      "company": "LISV, Université Paris-Saclay & Alten Labs",
+      "position": "PhD Researcher",
       "website": "",
       "startDate": "2024-04-01",
       "endDate": "",
-      "summary": "Research on real-time and continuous waste detection by drone via federated learning and multi-objective optimization. MVA Master at ENS Paris-Saclay (LLMs, Detection Theory, Convex Optimization, Distributed Computing).",
+      "summary": "Real-time, continual UAV waste detection using federated learning and multi-objective optimization.",
       "highlights": [
-        "Real-time waste detection by UAV using federated learning and multi-objective optimization",
-        "MVA courses: Large Language Models, Detection Theory, Convex Optimization, Distributed Computing"
+        "Hardware-aware federated detection: profiled 17 detectors on a Jetson Orin NX, then compared head-only, head-and-neck and LoRA adaptation under altitude-induced non-IID federated learning",
+        "UAV-DiverseWaste: 30,387-image resource from 24 datasets and an Unreal Engine 5 simulation, with the audited D²EW benchmark",
+        "Annotation harmonization: waste-item boxes to cleanup units, mAP@0.5 from 0.434 to 0.563",
+        "Semi-supervised federated detection with server-side labels"
       ]
     },
     {
-      "company": "École Centrale d'Electronique",
-      "position": "Professor",
+      "company": "ESIEE Paris",
+      "position": "Lecturer",
+      "website": "",
+      "startDate": "2026-09-01",
+      "endDate": "",
+      "summary": "Big Data (final-year engineering students, ING5), Full-Stack Data Applications (master's level, international track, taught in English).",
+      "highlights": []
+    },
+    {
+      "company": "ECE Paris",
+      "position": "Lecturer",
       "website": "",
       "startDate": "2025-09-01",
       "endDate": "",
-      "summary": "Teaching Mathematics (Prépa, bac+1), Artificial Intelligence (Engineering cycle, bac+5), and MLOps (MSc AI, bac+5).",
+      "summary": "Artificial Intelligence (engineering programme, master's level), MLOps (MSc in AI, international track, taught in English), Mathematics (preparatory cycle).",
       "highlights": [
         "Mathematics: Preparatory class (bac+1)",
         "Artificial Intelligence: Engineering cycle (bac+5)",
@@ -101,7 +112,12 @@
       "startDate": "2024",
       "endDate": "",
       "gpa": null,
-      "courses": ["Large Language Models", "Detection Theory and Industrial Applications", "Convex Optimization and Applications in Machine Learning", "Foundations of Distributed and Large-Scale Computing Optimization"]
+      "courses": [
+        "Large Language Models",
+        "Detection Theory and Industrial Applications",
+        "Convex Optimization and Applications in Machine Learning",
+        "Foundations of Distributed and Large-Scale Computing Optimization"
+      ]
     },
     {
       "institution": "Université Paris Cité",
@@ -135,39 +151,116 @@
     {
       "name": "Programming",
       "level": "",
-      "keywords": ["Python", "PySpark", "Java", "C", "C++", "R", "TypeScript", "JavaScript", "HTML", "CSS", "LaTeX", "Bash"]
+      "keywords": [
+        "Python",
+        "PySpark",
+        "Java",
+        "C",
+        "C++",
+        "R",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "LaTeX",
+        "Bash"
+      ]
     },
     {
       "name": "Databases",
       "level": "",
-      "keywords": ["SQL", "CQL", "Neo4j", "SparQL", "Faiss", "ElasticSearch", "Weaviate"]
+      "keywords": [
+        "SQL",
+        "CQL",
+        "Neo4j",
+        "SparQL",
+        "Faiss",
+        "ElasticSearch",
+        "Weaviate"
+      ]
     },
     {
       "name": "Libraries & Frameworks",
       "level": "",
-      "keywords": ["PyTorch", "TensorFlow", "Hugging Face", "Scikit-Learn", "Keras", "LangChain", "LlamaIndex", "MLflow", "Ollama", "Spark", "Docker", "Kubernetes", "FastAPI", "vLLM"]
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "Hugging Face",
+        "Scikit-Learn",
+        "Keras",
+        "LangChain",
+        "LlamaIndex",
+        "MLflow",
+        "Ollama",
+        "Spark",
+        "Docker",
+        "Kubernetes",
+        "FastAPI",
+        "vLLM"
+      ]
     },
     {
       "name": "Cloud & DevOps",
       "level": "",
-      "keywords": ["Azure", "GitHub Actions", "CI/CD", "Azure DevOps", "Docker", "Kubernetes", "Amazon S3"]
+      "keywords": [
+        "Azure",
+        "GitHub Actions",
+        "CI/CD",
+        "Azure DevOps",
+        "Docker",
+        "Kubernetes",
+        "Amazon S3"
+      ]
     }
   ],
   "languages": [
-    {"language": "French", "fluency": "Native"},
-    {"language": "English", "fluency": "B2"},
-    {"language": "Spanish", "fluency": "B1"},
-    {"language": "Arabic", "fluency": "A2"}
+    {
+      "language": "French",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "B2"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "B1"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "A2"
+    }
   ],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Federated Learning for UAV Perception Task: A Survey",
-      "publisher": "TechRxiv (under review)",
+      "name": "Hardware-Aware Detector Selection for Federated UAV Waste Monitoring",
+      "publisher": "IEEE FLTA 2026, Paris (long paper, oral presentation)",
+      "releaseDate": "2026-10-27",
+      "website": "https://flta-conference.org/flta-2026/index.php",
+      "summary": "Y. Bardes, O. El Alaoui El Ismaili, H. Soubra, Z. Noumir, A. Ramdane-Chérif."
+    },
+    {
+      "name": "From Waste Items to Cleanup Units: Harmonizing Instance Granularity with Geometry and Visual Context",
+      "publisher": "MVEO Workshop, BMVC 2026, Lancaster",
+      "releaseDate": "2026-11-26",
+      "website": "",
+      "summary": "Y. Bardes, H. Soubra, Z. Noumir, A. Ramdane-Chérif."
+    },
+    {
+      "name": "Autonomous UAV Perception with Federated Learning: A Survey on Collaborative Intelligence in Vehicle Environments",
+      "publisher": "IEEE Transactions on Intelligent Vehicles (T-IV), under review",
       "releaseDate": "",
       "website": "https://www.techrxiv.org/users/925495/articles/1300160-federated-learning-for-uav-perception-task-a-survey",
-      "summary": "Survey on federated learning approaches for UAV (drone) perception tasks. Preprint under review."
+      "summary": "Y. Bardes, H. Soubra, Z. Noumir, A. Ramdane-Chérif. Earlier version on TechRxiv."
+    },
+    {
+      "name": "UAV-DiverseWaste: Harmonized Multisource Data and an Audited Benchmark for Aerial Waste Detection",
+      "publisher": "Neural Computing and Applications (NCA), under review",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Y. Bardes, A. Tounsi, H. Soubra, Z. Noumir, A. Ramdane-Chérif."
     }
   ],
   "presentations": [],

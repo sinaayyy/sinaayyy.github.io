@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yanis Bardes | AI Researcher"
 title_separator          : "-"
 name                     : &name "Yanis Bardes"
-description              : &description "Yanis Bardes's academic portfolio - PhD student in AI at Université Paris-Saclay"
+description              : &description "Yanis Bardes's academic page - PhD candidate in AI at Université Paris-Saclay and Alten Labs"
 url                      : https://sinaayyy.github.io
 baseurl                  : ""
 repository               : "sinaayyy/sinaayyy.github.io"
@@ -25,16 +25,16 @@ author:
   avatar           : "profile.png"
   name             : "Yanis Bardes"
   pronouns         : # example: "she/her"
-  bio              : "PhD student in AI at Université Paris-Saclay. Research on real-time waste detection via federated learning and multi-objective optimization."
+  bio              : "PhD candidate in AI (Université Paris-Saclay, LISV & Alten Labs). Federated object detection for UAVs under hardware constraints."
   location         : "Ile-de-France, France"
-  employer         : "Lincoln / Université Paris-Saclay"
+  employer         : "Alten Labs / Université Paris-Saclay"
   uri              : # URL
   email            : "yanis.bardes@gmail.com"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL - Add your Google Scholar profile URL
+  googlescholar    : "https://scholar.google.fr/citations?user=bUiyTZ4AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL
@@ -88,7 +88,9 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference and Workshop Papers'
+  underreview:
+    title: 'Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
