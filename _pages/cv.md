@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * **PhD in Mathematics and Computer Science**, Université Paris-Saclay, LISV Laboratory, 2024–2027 (expected)
+  * **Available for a research internship of up to 6 months from January 2027; defense planned after the internship.**
   * CIFRE industrial doctorate with Alten Labs
   * Supervisors: Amar Ramdane-Chérif (LISV), Hassan Soubra (LyRIDS, ECE Paris), Zineb Noumir (Alten Labs)
 
