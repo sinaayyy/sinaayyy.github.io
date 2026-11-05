@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yanis Bardes"
-seo_title: "Yanis Bardes — PhD Researcher in AI | Federated Learning & Computer Vision"
+seo_title: "Yanis Bardes — PhD Researcher in AI, Federated Learning & Computer Vision"
 description: "Yanis Bardes is a PhD researcher in AI at Université Paris-Saclay (LISV) and Alten Labs, working on federated learning, object detection and computer vision for UAVs. Publications, talks, teaching and CV."
 author_profile: true
 redirect_from:
