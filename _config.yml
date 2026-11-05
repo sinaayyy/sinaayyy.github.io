@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Yanis Bardes"
   pronouns         : # example: "she/her"
-  bio              : "PhD candidate in AI (Université Paris-Saclay, LISV & Alten Labs). Federated object detection for UAVs under hardware constraints."
+  bio              : "PhD candidate in AI (Université Paris-Saclay, LISV & Alten Labs). Semi-supervised federated learning for object detection on UAVs."
   location         : "Ile-de-France, France"
   employer         : "Alten Labs / Université Paris-Saclay"
   uri              : # URL
@@ -145,7 +145,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "profile.png" # Social media default site image
-og_description           : "Yanis Bardes, PhD researcher in AI at Université Paris-Saclay (LISV) and Alten Labs: federated learning, object detection and computer vision for UAVs."
+og_description           : "Yanis Bardes, PhD researcher in AI at Université Paris-Saclay (LISV) and Alten Labs: semi-supervised and federated learning for object detection on UAVs."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

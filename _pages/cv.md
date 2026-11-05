@@ -39,11 +39,11 @@ First author on all listed papers.
 Research Experience
 ======
 * **PhD Researcher**, LISV, Université Paris-Saclay & Alten Labs, since April 2024
-  * Real-time, continual UAV waste detection using federated learning and multi-objective optimization.
+  * Semi-supervised federated learning for object detection on UAVs, applied to real-time waste detection.
+  * **Semi-supervised federated detection (main research problem):** a server holds a small labeled set and clients hold only unlabeled images; a teacher produces pseudo-labels on the clients. Studying which pseudo-labels to trust, where the teacher should run, and how to keep training reliable under non-IID data (YOLOv8-L, Grid'5000).
   * **Hardware-aware federated detection:** profiled 17 convolutional, Transformer and hybrid detectors on a Jetson Orin NX (gradient-computation time, peak VRAM, power), then adapted the selected architectures under altitude-induced non-IID federated learning on seven clients, comparing head-only, head-and-neck and LoRA adaptation. Showed that pre-FL embeddability does not predict post-FL adaptation utility and that adapting multi-scale feature fusion consistently beats head-only tuning.
   * **Aerial waste data:** built UAV-DiverseWaste, a 30,387-image resource consolidating 24 third-party datasets and an Unreal Engine 5 drone simulation, with D²EW, a 2,442-image audited benchmark. Pooling nearly doubled accuracy on an unseen test campaign.
   * **Annotation harmonization:** built reviewed relational annotations for 1,891 images from 15 ground, UAV and CCTV sources, and developed a geometry-first method with visual correction that turns waste-item boxes into cleanup units, raising detection mAP@0.5 from 0.434 to 0.563 (manual reference labels: 0.610).
-  * **Semi-supervised federated detection:** a server holds a small labeled set and clients hold only unlabeled images, with teacher-generated pseudo-labels (YOLOv8-L, Grid'5000).
 
 Peer Review
 ======
