@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD candidate in Artificial Intelligence at [Université Paris-Saclay](https://www.universite-paris-saclay.fr/) (LISV laboratory), in an industrial CIFRE doctorate with **Alten Labs**. My research is on **semi-supervised federated learning for object detection**: how to train detectors when labels are scarce and the data stays spread across devices. The application is real-time waste detection by drone.
 
-**I am looking for a research internship of up to 6 months starting in January 2027** (PhD defense planned after the internship). Feel free to [contact me](mailto:yanis.bardes@gmail.com).
+**I am looking for a research internship of up to 6 months starting in February 2027** (PhD defense planned after the internship). Feel free to [contact me](mailto:yanis.bardes@gmail.com).
 
 I am supervised by Amar Ramdane-Chérif (LISV), Hassan Soubra (LyRIDS, ECE Paris) and Zineb Noumir (Alten Labs). I also took graduate courses in the [MVA Master](https://www.master-mva.com/) at ENS Paris-Saclay.
 
