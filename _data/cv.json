@@ -68,15 +68,16 @@
       ]
     },
     {
-      "company": "AtlasAI",
+      "company": "AtlasIA",
       "position": "Data Core Team",
-      "website": "https://atlasai.com",
+      "website": "https://huggingface.co/atlasia",
       "startDate": "2024-03-01",
       "endDate": "2025-09-01",
-      "summary": "Data collection and preparation for training language models for the Moroccan dialect. LLM training for Moroccan dialect (data and model available at atlasai.com).",
+      "summary": "Open-source community for Moroccan Arabic (Darija) AI.",
       "highlights": [
-        "Data retrieval and preparation for Moroccan dialect LLM training",
-        "LLM fine-tuning with Hugging Face"
+        "Preprocessing of Terjman translation data (language identification, filtering)",
+        "First LLM fine-tuning trials of Atlas-Chat, later released by MBZUAI Paris and AtlasIA",
+        "Contributor to TerjamaBench, a cultural English-Darija translation benchmark"
       ]
     },
     {

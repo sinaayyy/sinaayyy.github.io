@@ -57,6 +57,6 @@ Reviewer for IEEE Transactions on Intelligent Vehicles (T-IV), IEEE Internet of 
 
 ## Background
 
-Before my PhD, I was a **Deep Learning Engineer at Lincoln** (Boulogne-Billancourt), where I built a patented multi-modal retrieval-augmented generation (RAG) system, and a member of the **data core team at AtlasAI**, where I helped train an LLM for Moroccan Arabic. I won two Kaggle silver medals (top 4%).
+Before my PhD, I was a **Deep Learning Engineer at Lincoln** (Boulogne-Billancourt), where I built a patented multi-modal retrieval-augmented generation (RAG) system, and a member of the **data core team at AtlasIA**, the open-source community for Moroccan Arabic AI, where I worked on Terjman translation data, took part in the first LLM fine-tuning trials of [Atlas-Chat](https://arxiv.org/abs/2409.17912), and contributed to the [TerjamaBench](https://huggingface.co/blog/imomayiz/terjama-bench) translation benchmark. I won two Kaggle silver medals (top 4%).
 
 I hold a **Double Master's degree in Mathematics, Computer Science and Data Science (MIDS)** from Université Paris Cité and a **Bachelor's degree in Mathematics** (with honours) from Université Paris-Est Créteil.

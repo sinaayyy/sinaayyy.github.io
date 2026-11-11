@@ -64,8 +64,11 @@ Teaching
 
 Industry Experience
 ======
-* **Data Core Team Member**, AtlasAI (remote), March 2024 – September 2025
-  * Collected and prepared training data for language models in Moroccan Arabic, and trained an LLM for this dialect. Data and model available at [huggingface.co/atlasia](https://huggingface.co/atlasia).
+* **Data Core Team Member**, AtlasIA (remote), March 2024 – September 2025
+  * Open-source community for Moroccan Arabic (Darija) AI ([huggingface.co/atlasia](https://huggingface.co/atlasia)).
+  * **Terjman translation data:** preprocessing of user translations of Darija sentences (DODa dataset) collected on the atlasia.ma platform: language identification with a confidence cutoff, comparison of spaCy model sizes, removal of empty texts.
+  * **Atlas-Chat:** took part in the first LLM fine-tuning trials of Atlas-Chat, the Darija LLM later released by MBZUAI Paris and AtlasIA ([paper](https://arxiv.org/abs/2409.17912)).
+  * **TerjamaBench contributor:** AtlasIA's 850-sentence cultural benchmark for English–Darija translation ([blog post](https://huggingface.co/blog/imomayiz/terjama-bench)).
 
 * **Deep Learning Engineer**, Lincoln, Boulogne-Billancourt, October 2023 – April 2024
   * **Generative AI:** built a patented multi-modal RAG pipeline (LLM, embedding model, vector database, inference engine), generated synthetic question-answer data, developed a full-stack demonstrator and presented the platform to clients.
